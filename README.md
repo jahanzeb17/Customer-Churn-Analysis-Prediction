@@ -1,11 +1,5 @@
 # Customer Churn Analysis & Prediction
 
-**Author:** Tharun Kumar Srinivasan  
-**GitHub:** [github.com/Tharun-Design](https://github.com/Tharun-Design)  
-**Live Dashboard:** [tharun-design.github.io/customer-churn-analysis/dashboard.html](https://tharun-design.github.io/customer-churn-analysis/dashboard.html)  
-**Project Page:** [tharun-design.github.io/customer-churn-analysis](https://tharun-design.github.io/customer-churn-analysis/)  
-**LinkedIn:** [linkedin.com/in/tharun-kumar-srinivasan](https://linkedin.com/in/tharun-kumar-srinivasan)
-
 ---
 
 ## Overview
