@@ -1,7 +1,5 @@
 # Customer Churn Analysis & Prediction
 
----
-
 ## Overview
 
 An end-to-end data science project that analyses customer churn for a telecom company, builds a machine learning prediction model, and serves predictions through a REST API integrated into an interactive web dashboard.
@@ -9,17 +7,6 @@ An end-to-end data science project that analyses customer churn for a telecom co
 The project covers the complete data science workflow — from raw data exploration and SQL business queries to a tuned XGBoost model deployed via FastAPI, with a fully interactive dashboard built in HTML, CSS, and JavaScript hosted on GitHub Pages.
 
 **Business Problem:** A telecom company loses approximately 26.5% of customers every quarter, representing $139,131 in monthly revenue at risk. This project identifies the drivers of churn, predicts which customers are likely to leave, and provides actionable retention recommendations.
-
----
-
-## Live Links
-
-| Resource | URL |
-|----------|-----|
-| Interactive Dashboard | [View Dashboard](https://tharun-design.github.io/customer-churn-analysis/dashboard.html) |
-| Project Showcase Page | [View Project Page](https://tharun-design.github.io/customer-churn-analysis/) |
-| GitHub Repository | [View Repository](https://github.com/Tharun-Design/customer-churn-analysis) |
-| API (local) | `http://localhost:8000/docs` |
 
 ---
 
@@ -440,14 +427,3 @@ This runs 5 automated tests: health check, model info endpoint, high-risk custom
 
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
-
-**Tharun Kumar Srinivasan**  
-[LinkedIn](https://linkedin.com/in/tharun-kumar-srinivasan) &nbsp;|&nbsp; [GitHub](https://github.com/Tharun-Design)
